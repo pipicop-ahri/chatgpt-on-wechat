@@ -106,9 +106,9 @@ available_setting = {
     # 是否使用全局插件配置
     "use_global_plugin_config": False,
     # 知识库平台配置
-    "use_linkai": False,
-    "linkai_api_key": "",
-    "linkai_app_code": ""
+    "use_linkai": True,
+    "linkai_api_key": "Link_b3Znr9CHW6CGdk4zw26emPtC16Ey5ot0l8oB1rpvkj",
+    "linkai_app_code": "rkfLxW2f"
 }
 
 
